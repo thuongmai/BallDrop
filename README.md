@@ -1,5 +1,5 @@
 # BALL DROP
-###The work presented in this paper is new and was prepared only for the course COMP 1501 Computer Game Design, Winter 2013, School of Computer Science, Carleton University.
+### The work presented in this paper is new and was prepared only for the course COMP 1501 Computer Game Design, Winter 2013, School of Computer Science, Carleton University.
 
 ### Programmers:
 * Bernard Llanos
